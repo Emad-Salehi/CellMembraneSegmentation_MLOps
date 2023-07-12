@@ -17,16 +17,16 @@ How we gain and preprocess data
 ## Phase3 - Deployment
 
 ### Model Deployment
-####*Deployment Strategy*
-####*Deployment Pattern*
+#### *Deployment Strategy*
+#### *Deployment Pattern*
 ### Automation
-####*CI/CD*
+#### *CI/CD*
 Not yet
-####*Dockerization*
-####*MLFlow*
+#### *Dockerization*
+#### *MLFlow*
 ### Monitoring
-####*Metrics*
-####*Tracking UI*
+#### *Metrics*
+#### *Tracking UI*
 
 ## Demo
 The demo of this project is written using the PyWebIO Python library. You can see a video of this demo in [Video_example of demo]()
