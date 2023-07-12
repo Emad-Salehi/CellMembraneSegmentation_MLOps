@@ -5,22 +5,22 @@
 ## Project contents
 The contents of this project are available in the data and source folder. All the data extracted and used in this project are given in the data folder. In the source folder, you can find the codes related to the demo project, data preprocessing, model implementation, and deployment-related codes. This project divided into 3 different phases: *Data Preprocessing* - *Model Development* - *Deployment*
 
-### Phase1 - Data Preprocessing
+## Phase1 - Data Preprocessing
 How we gain and preprocess data
 
-### Phase2 - Model development
+## Phase2 - Model development
 
-#### Classification as preprocessing
+### Classification as preprocessing
 
-#### Segmentation by U-net
+### Segmentation by U-net
 
-### Phase3 - Deployment
+## Phase3 - Deployment
 
-#### Model Deployment
-#### Automation
-#### Monitoring
+### Model Deployment
+### Automation
+### Monitoring
 
-### Demo
+## Demo
 The demo of this project is written using the PyWebIO Python library. You can see a video of this demo in [Video_example of demo]()
 
 ## Usage
