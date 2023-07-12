@@ -1,12 +1,12 @@
 # CellMembraneSegmentation_MLOps
 
-**Problem definition**
+**Problem definition?**
 
 ## Project contents
 The contents of this project are available in the data and source folder. All the data extracted and used in this project are given in the data folder. In the source folder, you can find the codes related to the demo project, data preprocessing, model implementation, and deployment-related codes. This project divided into 3 different phases: *Data Preprocessing* - *Model Development* - *Deployment*
 
 ## Phase1 - Data Preprocessing
-How we gain and preprocess data
+**How we gain and preprocess data?**
 
 ## Phase2 - Model development
 
